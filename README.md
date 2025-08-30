@@ -27,3 +27,8 @@ python password_manager.py
 - `crypto_utils.py` - Encryption/decryption functions
 - `storage.py` - Data storage and retrieval
 - `requirements.txt` - Dependencies
+
+
+
+
+AES-256 is a strong symmetric-key encryption standard using a 256-bit key to encrypt data blocks over 14 rounds, making it virtually unbreakable by brute force and suitable for securing sensitive information in various applications, including government, commercial, and personal data. Master password protection involves creating a single, very strong password to secure a digital vault or other sensitive digital information, such as a password manager, browser, or encrypted file.
